@@ -16,6 +16,7 @@
 }
 
 body {
+  background-color: #272727;
     box-sizing: border-box;
     height: auto;
     background-color: var(--cor-primaria);
